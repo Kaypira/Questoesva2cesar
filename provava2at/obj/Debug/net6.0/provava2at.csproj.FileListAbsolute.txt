@@ -1,0 +1,15 @@
+C:\Users\kayol\source\repos\provava2at\provava2at\bin\Debug\net6.0\provava2at.exe
+C:\Users\kayol\source\repos\provava2at\provava2at\bin\Debug\net6.0\provava2at.deps.json
+C:\Users\kayol\source\repos\provava2at\provava2at\bin\Debug\net6.0\provava2at.runtimeconfig.json
+C:\Users\kayol\source\repos\provava2at\provava2at\bin\Debug\net6.0\provava2at.dll
+C:\Users\kayol\source\repos\provava2at\provava2at\bin\Debug\net6.0\provava2at.pdb
+C:\Users\kayol\source\repos\provava2at\provava2at\obj\Debug\net6.0\provava2at.csproj.AssemblyReference.cache
+C:\Users\kayol\source\repos\provava2at\provava2at\obj\Debug\net6.0\provava2at.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayol\source\repos\provava2at\provava2at\obj\Debug\net6.0\provava2at.AssemblyInfoInputs.cache
+C:\Users\kayol\source\repos\provava2at\provava2at\obj\Debug\net6.0\provava2at.AssemblyInfo.cs
+C:\Users\kayol\source\repos\provava2at\provava2at\obj\Debug\net6.0\provava2at.csproj.CoreCompileInputs.cache
+C:\Users\kayol\source\repos\provava2at\provava2at\obj\Debug\net6.0\provava2at.dll
+C:\Users\kayol\source\repos\provava2at\provava2at\obj\Debug\net6.0\refint\provava2at.dll
+C:\Users\kayol\source\repos\provava2at\provava2at\obj\Debug\net6.0\provava2at.pdb
+C:\Users\kayol\source\repos\provava2at\provava2at\obj\Debug\net6.0\provava2at.genruntimeconfig.cache
+C:\Users\kayol\source\repos\provava2at\provava2at\obj\Debug\net6.0\ref\provava2at.dll
